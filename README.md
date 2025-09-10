@@ -8,7 +8,7 @@
 
 
 ## How to Explore the Project
-1. Open the "Data" folder to review the Excel analysis and dataset  
+1. Open the "Data Analysis" folder to review the Excel analysis and dataset  
 2. Read "Report" for detailed insights and recommendations  
 3. Check "Presentation" for a summarized visual overview of key findings  
 
